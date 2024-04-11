@@ -3,7 +3,7 @@
 ## Education
 Practice
 Academic
-Kegan
+Kegan Expert
 <img src = "https://raw.githubusercontent.com/GomezSteve/GomezSteve.github.io/main/Kegan.png" >
 
 ![07975D28-BA03-4183-A4A2-30F66DA961DC](https://github.com/GomezSteve/GomezSteve.github.io/assets/165951592/6b62521d-a30a-448c-8fb9-a6d2c7abacf1)
