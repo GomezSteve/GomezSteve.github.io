@@ -1,2 +1,8 @@
 # GomezSteve.github.io
-My Personal Portfolio
+# My Personal Portfolio
+
+## Education
+MS
+BS
+
+
